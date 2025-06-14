@@ -74,5 +74,5 @@
 
 
 ### Liyuan's Role
-Take questions to Liyuan (clarified that he wants to be hands off for his role and he is busy so don't treat him as another group member but as someone we can take clarifying questions to![image](https://github.com/user-attachments/assets/93f175c7-8b99-4a9a-9fda-f749d0199a1b)
+Take questions to Liyuan (clarified that he wants to be hands off for his role and he is busy so don't treat him as another group member but as someone we can take clarifying questions to
 
