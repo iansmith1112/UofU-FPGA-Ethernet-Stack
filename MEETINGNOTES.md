@@ -67,6 +67,7 @@
 	- Get familiar with how DMA will help us
 		○ what is it?
 		○ why will it help us?
+  	- Get familiar with Vivado(?) (Wait for Liyuan on this for now)
 	
 ### Outstanding Tasks for Liyuan
 	- Get us access to labs
