@@ -1,5 +1,5 @@
 # Meeting Notes
-## 05/XX
+## 05/XX/25
 - 4900 - 4 credits
 - Get work done as early as possible
 - 12 hours a week for senior project
@@ -35,7 +35,7 @@
 - Lab SMBB 1st floor *Pierre's lab
 - Send UID to liyuan for access
 
-## 06/13
+## 06/13/25
 
 ### Wednesday - 18:00PM - Biweekly agreement (For now)
 
