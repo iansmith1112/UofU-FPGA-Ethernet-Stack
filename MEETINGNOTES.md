@@ -119,3 +119,28 @@ Take questions to Liyuan (clarified that he wants to be hands off for his role a
     - Multiple DMA
       - One DMA to read from RAM, which would then output to DRAM, then a DMA to read from that DRAM and send to the UDP hardware stack
 
+## 07/01/25
+
+### TODO by next Wednesday:
+- Someone install vivado
+- Still get an understanding of UDP, Vivado, and DMA. (Next Wednesday, have a solid understanding of these 3)
+- UDP
+	- Understand how packets are formed and what they look like
+		- Headers?
+- DMA
+	- Understand what it does.
+	- What it's for.
+	- How it's implemented and used on a typical FPGA board.
+- Vivado
+	- Can we get it on our machine
+		- If someone does get it on their machine, how do we create a project and start developing?
+- Reach out to John Davis (Ian)
+
+### Questions:
+- Is 2+ RAM done in software or hardware?
+- What was the DRAM for in between the DMA's?
+
+### down the line
+- specific connector for ethernet
+	- RJ45?
+	- Fiber optic?
