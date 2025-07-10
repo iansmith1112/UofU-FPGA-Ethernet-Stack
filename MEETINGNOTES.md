@@ -144,3 +144,21 @@ Take questions to Liyuan (clarified that he wants to be hands off for his role a
 - specific connector for ethernet
 	- RJ45?
 	- Fiber optic?
+
+## 07/10/25
+
+### Tasks:
+- Ian to try and get a response from John Davies about senior class structure (John hasn't responded)
+
+### Notes: 
+- Next two meetings Liyuan is in Germany (8 hour time difference)
+	- Next two Bi-Weekly meetings with Liyuan will be 
+		- July 23rd @ 4PM
+		- August 7th @ 4PM
+- Since next week is Liyuan's last week here we will meet next Thursday (July 17th) @ 5:30PM In-Person at the Lab to have him show us what we have access to and get hands on Vivado
+- Vivado 2020.1 is more compatible with our board, but if we use another version that is not the end of the world right now
+	- Second option is 2022.1 (Liyuan's second preference)
+
+### Questions:
+	- Is DMA something that is provided for us?
+	- What board are we using?
