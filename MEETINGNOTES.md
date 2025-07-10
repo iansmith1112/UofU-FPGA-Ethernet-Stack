@@ -160,5 +160,5 @@ Take questions to Liyuan (clarified that he wants to be hands off for his role a
 	- Second option is 2022.1 (Liyuan's second preference)
 
 ### Questions:
-	- Is DMA something that is provided for us?
-	- What board are we using?
+- Is DMA something that is provided for us?
+- What board are we using?
