@@ -191,3 +191,26 @@ Take questions to Liyuan (clarified that he wants to be hands off for his role a
 - Ai use on project, and citing sources. (What are the constraints?)
 - Process: Will this project entail two boards? One for sending, one for recieving UDP?
 - Reclarify on the use of DRAM in the project.
+
+## 08/07/25
+
+### Notes:
+
+- Dont fully trust AI, encouraged to use our own work and use it as a tool.
+
+#### Dram:
+
+Used for if the UDP/Ethernet module is not fast enough and you need a larger memory to fill.
+Is costly, but we dont have to worry about power as it is located far enough away from the BCI to not effect the brain. We just need to worry about speed.
+
+### Questions:
+
+- Martin: Senior thesis class schedule: Class time for meetings work for us? Ian: Yes, Blandine: TBD
+
+### Action items:
+
+- Liyuan to elaborate further on the second and third questions from 07/30.
+- Find a time to meet in person when Liyuan is back on the first week of school
+  - we will go over the questions and make sure we know how to simulate our waveform generator.
+  - If we don't have the waveform generator complete, we can make do with any questions we have.
+- Try to get the waveform generator completed by the first week of school
